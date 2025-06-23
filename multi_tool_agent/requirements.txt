@@ -1,0 +1,9 @@
+# Google ADK (Agent Development Kit)
+google-adk
+ 
+# Pour la validation de données (utilisé dans FastAPI et ADK)
+pydantic
+
+# Pour les appels HTTP (API Facebook)
+requests
+google-cloud-aiplatform[agent_engines,adk]
